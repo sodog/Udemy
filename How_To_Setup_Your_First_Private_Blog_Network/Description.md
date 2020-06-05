@@ -2,7 +2,7 @@ How To Setup Your First Private Blog Network
 
 Course by Josh MacDonald
 
-- Introduction
+<em>Introduction</em>
 
 Preliminary network setup
 
@@ -12,5 +12,5 @@ Hosting
 
 Content
 
-- Conclusion
+<em>Conclusion</em>
 
